@@ -1,0 +1,44 @@
+
+
+.footer_area{
+	background: #000;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-top: 2rem;
+    color: #777777;
+	font-family: "Heebo", sans-serif;
+}
+
+.footer_title{
+	font-weight: bold;
+}
+
+.banner{
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+	background: #4682b4;
+	border-radius: 0rem;
+}
+
+.icon{
+    line-height: 25px;
+    width: 25px;
+    background: #e8e8e8;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    color: #4682b4;
+    font-size: 16px;
+    margin-left: .3rem;
+}
+
+.discord{
+	width: 30%;
+	height: auto;
+
+}
+
+.ip{
+	font-weight: bold;
+	color: #4682b4;
+}
