@@ -1,16 +1,8 @@
-
-
 .footer_area{
 	background: #000;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     margin-top: 2rem;
-    color: #777777;
-	font-family: "Heebo", sans-serif;
-}
-
-.footer_title{
-	font-weight: bold;
 }
 
 .banner{
@@ -35,7 +27,6 @@
 .discord{
 	width: 30%;
 	height: auto;
-
 }
 
 .ip{
