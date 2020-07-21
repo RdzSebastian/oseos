@@ -33,3 +33,16 @@
 	font-weight: bold;
 	color: #4682b4;
 }
+
+@media (max-width: 992px) {
+  .banner { 
+    text-align: center;
+  }
+
+  .title{
+
+  }
+  .subtitle{
+    
+  }
+}
