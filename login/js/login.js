@@ -8,7 +8,7 @@ function validate(){
 	if ( username == "server" && password == "os3os"){
 		window.location = "../admin/" + admin + ".html"; // Redirecting to other page.
 	} else{
-		window.location = "../admin/error.html"; // Redirecting to other page.
+		window.location = "error.html"; // Redirecting to other page.
 	}
 }
 
